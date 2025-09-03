@@ -2,8 +2,10 @@
 
 FuncVEP is a family of LightGBM classifiers for predicting the functional effect (Damaging / Neutral) of missense variants. It is trained entirely on balanced and diverse functional data, enabling improved accuracy and generalization.
 
-An interactive web portal is available at https://funcvep.bilkent.edu.tr.
-Precomputed predictions for all possible missense variants can be downloaded from https://zenodo.org/records/17036008.
+- FuncVEP Web Portal: https://funcvep.bilkent.edu.tr
+- Precomputed FuncVEP predictions for all possible missense variants: https://zenodo.org/records/17036008
+
+![FuncVEP Framework](resources/framework.png)
 
 ---
 
