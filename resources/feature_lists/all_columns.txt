@@ -1,0 +1,594 @@
+Name	Category	Type
+FuncVEP_CTI	Functional-Trained	Variant Effect Predictor
+FuncVEP_CTE	Functional-Trained	Variant Effect Predictor
+FuncVEP_SP	Functional-Trained	Variant Effect Predictor
+ClinVEP_CTI	Clinical-Trained Meta Predictor	Variant Effect Predictor
+ClinVEP_CTE	Clinical-Trained Meta Predictor	Variant Effect Predictor
+ClinVEP_SP	Clinical-Trained Single Predictor	Variant Effect Predictor
+PrimateAI_score	Population-Tuned	Variant Effect Predictor
+PAI3D_score	Population-Tuned	Variant Effect Predictor
+SIFT_score	Population-Free	Variant Effect Predictor
+Polyphen2_HDIV_score	Clinical-Trained Single Predictor	Variant Effect Predictor
+Polyphen2_HVAR_score	Clinical-Trained Single Predictor	Variant Effect Predictor
+MutationTaster_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+MutationAssessor_score	Population-Free	Variant Effect Predictor
+PROVEAN_score	Population-Free	Variant Effect Predictor
+VEST4_score	Clinical-Trained Single Predictor	Variant Effect Predictor
+MetaSVM_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+MetaLR_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+MetaRNN_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+M_CAP_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+REVEL_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+MutPred_score	Clinical-Trained Single Predictor	Variant Effect Predictor
+MVP_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+gMVP_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+MPC_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+DEOGEN2_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+BayesDel_addAF_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+BayesDel_noAF_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+ClinPred_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+LIST_S2_score	Population-Tuned	Variant Effect Predictor
+VARITY_R_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+VARITY_ER_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+VARITY_R_LOO_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+VARITY_ER_LOO_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+ESM1b_score	Population-Free	Variant Effect Predictor
+AlphaMissense_score	Population-Tuned	Variant Effect Predictor
+PHACTboost_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+MutFormer_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+MutScore_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+CADD_raw	Clinical-Trained Meta Predictor	Variant Effect Predictor
+DANN_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+fathmm_XF_coding_score	Clinical-Trained Meta Predictor	Variant Effect Predictor
+Eigen_raw_coding	Clinical-Trained Meta Predictor	Variant Effect Predictor
+Eigen_phred_coding	Clinical-Trained Meta Predictor	Variant Effect Predictor
+Eigen_PC_raw_coding	Clinical-Trained Meta Predictor	Variant Effect Predictor
+Eigen_PC_phred_coding	Clinical-Trained Meta Predictor	Variant Effect Predictor
+GERP___NR	Conservation Score-Based	Conservation Score-Based
+GERP___RS	Conservation Score-Based	Conservation Score-Based
+GERP_91_mammals	Conservation Score-Based	Conservation Score-Based
+phyloP100way_vertebrate	Conservation Score-Based	Conservation Score-Based
+phyloP470way_mammalian	Conservation Score-Based	Conservation Score-Based
+phyloP17way_primate	Conservation Score-Based	Conservation Score-Based
+phastCons100way_vertebrate	Conservation Score-Based	Conservation Score-Based
+phastCons470way_mammalian	Conservation Score-Based	Conservation Score-Based
+phastCons17way_primate	Conservation Score-Based	Conservation Score-Based
+bStatistic	Conservation Score-Based	Conservation Score-Based
+Kidera_f1	Amino Acid Conversion Matrix	Mutation-Level
+Kidera_f2	Amino Acid Conversion Matrix	Mutation-Level
+Kidera_f3	Amino Acid Conversion Matrix	Mutation-Level
+Kidera_f4	Amino Acid Conversion Matrix	Mutation-Level
+Kidera_f5	Amino Acid Conversion Matrix	Mutation-Level
+Kidera_f6	Amino Acid Conversion Matrix	Mutation-Level
+Kidera_f7	Amino Acid Conversion Matrix	Mutation-Level
+Kidera_f8	Amino Acid Conversion Matrix	Mutation-Level
+Kidera_f9	Amino Acid Conversion Matrix	Mutation-Level
+Kidera_f10	Amino Acid Conversion Matrix	Mutation-Level
+Atchley_f1	Amino Acid Conversion Matrix	Mutation-Level
+Atchley_f2	Amino Acid Conversion Matrix	Mutation-Level
+Atchley_f3	Amino Acid Conversion Matrix	Mutation-Level
+Atchley_f4	Amino Acid Conversion Matrix	Mutation-Level
+Atchley_f5	Amino Acid Conversion Matrix	Mutation-Level
+Grantham	Amino Acid Conversion Matrix	Mutation-Level
+BLOSUM80	Conservation Score-Based	Conservation Score-Based
+BLOSUM62	Conservation Score-Based	Conservation Score-Based
+BLOSUM70	Conservation Score-Based	Conservation Score-Based
+VTML	Amino Acid Conversion Matrix	Mutation-Level
+PFASUM60	Amino Acid Conversion Matrix	Mutation-Level
+MIQS	Amino Acid Conversion Matrix	Mutation-Level
+OddsRat	Amino Acid Conversion Matrix	Mutation-Level
+MTR	Constraint Score-Based	Residue-Level
+a3d_score	Structural	Residue-Level
+alphafold_score	Structural	Residue-Level
+AlphScore	Population-Tuned	Variant Effect Predictor
+glm_AlphCadd	Clinical-Trained Meta Predictor	Variant Effect Predictor
+glm_AlphRevel	Clinical-Trained Meta Predictor	Variant Effect Predictor
+glm_RevelCadd	Clinical-Trained Meta Predictor	Variant Effect Predictor
+glm_AlphRevelCadd	Clinical-Trained Meta Predictor	Variant Effect Predictor
+glm_AlphDeogen	Clinical-Trained Meta Predictor	Variant Effect Predictor
+glm_CaddDeogen	Clinical-Trained Meta Predictor	Variant Effect Predictor
+glm_DeogenRevel	Clinical-Trained Meta Predictor	Variant Effect Predictor
+glm_AlphDeogenRevel	Clinical-Trained Meta Predictor	Variant Effect Predictor
+glm_AlphCaddDeogen	Clinical-Trained Meta Predictor	Variant Effect Predictor
+glm_CaddDeogenRevel	Clinical-Trained Meta Predictor	Variant Effect Predictor
+PHACT	Population-Free	Variant Effect Predictor
+LoGoFunc_neutral	Clinical-Trained Meta Predictor	Variant Effect Predictor
+LoGoFunc_GOF	Clinical-Trained Meta Predictor	Variant Effect Predictor
+LoGoFunc_LOF	Clinical-Trained Meta Predictor	Variant Effect Predictor
+gpnmsa_score	Population-Free	Variant Effect Predictor
+jarvis	Constraint Score-Based	Residue-Level
+mtr3daf2_5a	Constraint Score-Based	Residue-Level
+mtr3daf2_8a	Constraint Score-Based	Residue-Level
+mtr3daf2_11a	Constraint Score-Based	Residue-Level
+mtr3daf2_14a	Constraint Score-Based	Residue-Level
+popEVE	Population-Tuned	Variant Effect Predictor
+ESM1v	Population-Free	Variant Effect Predictor
+EVH_epistatic	Population-Tuned	Variant Effect Predictor
+EVH_independent	Population-Tuned	Variant Effect Predictor
+EWSIM	Population-Tuned	Variant Effect Predictor
+UKBdepletion_score	Constraint Score-Based	Residue-Level
+sigma_score	Clinical-Trained Single Predictor	Variant Effect Predictor
+lof.pLI	Gene constraint score-based	Gene-Level
+lof.z_score	Gene constraint score-based	Gene-Level
+mis.z_score	Gene constraint score-based	Gene-Level
+syn.z_score	Gene constraint score-based	Gene-Level
+phi	Gene constraint score-based	Gene-Level
+Residual_Variation_Intolerance_Score	Gene constraint score-based	Gene-Level
+s_het	Gene constraint score-based	Gene-Level
+A375_SKIN	Gene Knock-Out Studies	Gene-Level
+A673_BONE	Gene Knock-Out Studies	Gene-Level
+BXPC3_PANCREAS	Gene Knock-Out Studies	Gene-Level
+CADOES1_BONE	Gene Knock-Out Studies	Gene-Level
+CAL120_BREAST	Gene Knock-Out Studies	Gene-Level
+COLO741_SKIN	Gene Knock-Out Studies	Gene-Level
+CORL105_LUNG	Gene Knock-Out Studies	Gene-Level
+EW8_BONE	Gene Knock-Out Studies	Gene-Level
+EWS502_BONE	Gene Knock-Out Studies	Gene-Level
+G402_SOFT_TISSUE	Gene Knock-Out Studies	Gene-Level
+HCC44_LUNG	Gene Knock-Out Studies	Gene-Level
+HS294T_SKIN	Gene Knock-Out Studies	Gene-Level
+HT29_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+K562_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+L33_PANCREAS	Gene Knock-Out Studies	Gene-Level
+LNCAPCLONEFGC_PROSTATE	Gene Knock-Out Studies	Gene-Level
+MEWO_SKIN	Gene Knock-Out Studies	Gene-Level
+MHHES1_BONE	Gene Knock-Out Studies	Gene-Level
+NCIH1373_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH2009_LUNG	Gene Knock-Out Studies	Gene-Level
+PANC0327_PANCREAS	Gene Knock-Out Studies	Gene-Level
+PANC0813_PANCREAS	Gene Knock-Out Studies	Gene-Level
+PANC1_PANCREAS	Gene Knock-Out Studies	Gene-Level
+PATU8902_PANCREAS	Gene Knock-Out Studies	Gene-Level
+PATU8988T_PANCREAS	Gene Knock-Out Studies	Gene-Level
+PC3_PROSTATE	Gene Knock-Out Studies	Gene-Level
+RDES_BONE	Gene Knock-Out Studies	Gene-Level
+SKES1_BONE	Gene Knock-Out Studies	Gene-Level
+SU8686_PANCREAS	Gene Knock-Out Studies	Gene-Level
+T47D_BREAST	Gene Knock-Out Studies	Gene-Level
+TC32_BONE	Gene Knock-Out Studies	Gene-Level
+TC71_BONE	Gene Knock-Out Studies	Gene-Level
+TOV112D_OVARY	Gene Knock-Out Studies	Gene-Level
+EOL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+HEL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+MOLM13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+MONOMAC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+MV411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+NB4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+OCIAML2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+OCIAML3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+OCIAML5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+P31FUJ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+PL21_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+SKM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+TF1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+THP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+143B_BONE	Gene Knock-Out Studies	Gene-Level
+42MGBA_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+5637_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+59M_OVARY	Gene Knock-Out Studies	Gene-Level
+639V_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+647V_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+769P_KIDNEY	Gene Knock-Out Studies	Gene-Level
+786O_KIDNEY	Gene Knock-Out Studies	Gene-Level
+8305C_THYROID	Gene Knock-Out Studies	Gene-Level
+8MGBA_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+A2058_SKIN	Gene Knock-Out Studies	Gene-Level
+A2780_OVARY	Gene Knock-Out Studies	Gene-Level
+A549_LUNG	Gene Knock-Out Studies	Gene-Level
+ABC1_LUNG	Gene Knock-Out Studies	Gene-Level
+AGS_STOMACH	Gene Knock-Out Studies	Gene-Level
+ASPC1_PANCREAS	Gene Knock-Out Studies	Gene-Level
+AU565_BREAST	Gene Knock-Out Studies	Gene-Level
+BC3C_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+BFTC905_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+BFTC909_KIDNEY	Gene Knock-Out Studies	Gene-Level
+BHY_UPPER_AERODIGESTIVE_TRACT	Gene Knock-Out Studies	Gene-Level
+BICR22_UPPER_AERODIGESTIVE_TRACT	Gene Knock-Out Studies	Gene-Level
+BICR6_UPPER_AERODIGESTIVE_TRACT	Gene Knock-Out Studies	Gene-Level
+BT549_BREAST	Gene Knock-Out Studies	Gene-Level
+C2BBE1_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+C32_SKIN	Gene Knock-Out Studies	Gene-Level
+CAKI1_KIDNEY	Gene Knock-Out Studies	Gene-Level
+CAKI2_KIDNEY	Gene Knock-Out Studies	Gene-Level
+CAL27_UPPER_AERODIGESTIVE_TRACT	Gene Knock-Out Studies	Gene-Level
+CAL29_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+CAL51_BREAST	Gene Knock-Out Studies	Gene-Level
+CAL78_BONE	Gene Knock-Out Studies	Gene-Level
+CALU6_LUNG	Gene Knock-Out Studies	Gene-Level
+CAMA1_BREAST	Gene Knock-Out Studies	Gene-Level
+CAOV3_OVARY	Gene Knock-Out Studies	Gene-Level
+CAS1_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+CCFSTTG1_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+CCK81_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+CFPAC1_PANCREAS	Gene Knock-Out Studies	Gene-Level
+CHAGOK1_LUNG	Gene Knock-Out Studies	Gene-Level
+CHP212_AUTONOMIC_GANGLIA	Gene Knock-Out Studies	Gene-Level
+CJM_SKIN	Gene Knock-Out Studies	Gene-Level
+CL40_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+COLO678_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+COLO679_SKIN	Gene Knock-Out Studies	Gene-Level
+COLO792_SKIN	Gene Knock-Out Studies	Gene-Level
+COLO800_SKIN	Gene Knock-Out Studies	Gene-Level
+CORL279_LUNG	Gene Knock-Out Studies	Gene-Level
+CORL47_LUNG	Gene Knock-Out Studies	Gene-Level
+COV318_OVARY	Gene Knock-Out Studies	Gene-Level
+COV362_OVARY	Gene Knock-Out Studies	Gene-Level
+COV434_OVARY	Gene Knock-Out Studies	Gene-Level
+COV504_OVARY	Gene Knock-Out Studies	Gene-Level
+COV644_OVARY	Gene Knock-Out Studies	Gene-Level
+D283MED_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+D341MED_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+DANG_PANCREAS	Gene Knock-Out Studies	Gene-Level
+DAOY_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+DETROIT562_UPPER_AERODIGESTIVE_TRACT	Gene Knock-Out Studies	Gene-Level
+DKMG_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+DLD1_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+DU4475_BREAST	Gene Knock-Out Studies	Gene-Level
+EFM19_BREAST	Gene Knock-Out Studies	Gene-Level
+EFO21_OVARY	Gene Knock-Out Studies	Gene-Level
+EFO27_OVARY	Gene Knock-Out Studies	Gene-Level
+EKVX_LUNG	Gene Knock-Out Studies	Gene-Level
+EPLC272H_LUNG	Gene Knock-Out Studies	Gene-Level
+ES2_OVARY	Gene Knock-Out Studies	Gene-Level
+ESS1_ENDOMETRIUM	Gene Knock-Out Studies	Gene-Level
+F5_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+FADU_UPPER_AERODIGESTIVE_TRACT	Gene Knock-Out Studies	Gene-Level
+FU97_STOMACH	Gene Knock-Out Studies	Gene-Level
+G292CLONEA141B1_BONE	Gene Knock-Out Studies	Gene-Level
+G401_SOFT_TISSUE	Gene Knock-Out Studies	Gene-Level
+GAMG_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+GB1_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+GCIY_STOMACH	Gene Knock-Out Studies	Gene-Level
+GI1_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+GSS_STOMACH	Gene Knock-Out Studies	Gene-Level
+H4_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+HARA_LUNG	Gene Knock-Out Studies	Gene-Level
+HCC1143_BREAST	Gene Knock-Out Studies	Gene-Level
+HCC1359_LUNG	Gene Knock-Out Studies	Gene-Level
+HCC1395_BREAST	Gene Knock-Out Studies	Gene-Level
+HCC1419_BREAST	Gene Knock-Out Studies	Gene-Level
+HCC1428_BREAST	Gene Knock-Out Studies	Gene-Level
+HCC15_LUNG	Gene Knock-Out Studies	Gene-Level
+HCC1806_BREAST	Gene Knock-Out Studies	Gene-Level
+HCC1937_BREAST	Gene Knock-Out Studies	Gene-Level
+HCC1954_BREAST	Gene Knock-Out Studies	Gene-Level
+HCC202_BREAST	Gene Knock-Out Studies	Gene-Level
+HCC56_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+HCC827_LUNG	Gene Knock-Out Studies	Gene-Level
+HCC95_LUNG	Gene Knock-Out Studies	Gene-Level
+HEC1A_ENDOMETRIUM	Gene Knock-Out Studies	Gene-Level
+HEC1B_ENDOMETRIUM	Gene Knock-Out Studies	Gene-Level
+HEC251_ENDOMETRIUM	Gene Knock-Out Studies	Gene-Level
+HEC50B_ENDOMETRIUM	Gene Knock-Out Studies	Gene-Level
+HEC59_ENDOMETRIUM	Gene Knock-Out Studies	Gene-Level
+HEC6_ENDOMETRIUM	Gene Knock-Out Studies	Gene-Level
+HEYA8_OVARY	Gene Knock-Out Studies	Gene-Level
+HGC27_STOMACH	Gene Knock-Out Studies	Gene-Level
+HLF_LIVER	Gene Knock-Out Studies	Gene-Level
+HMC18_BREAST	Gene Knock-Out Studies	Gene-Level
+HOP62_LUNG	Gene Knock-Out Studies	Gene-Level
+HS294T_SKIN_2	Gene Knock-Out Studies	Gene-Level
+HS578T_BREAST	Gene Knock-Out Studies	Gene-Level
+HS683_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+HS695T_SKIN	Gene Knock-Out Studies	Gene-Level
+HS729_SOFT_TISSUE	Gene Knock-Out Studies	Gene-Level
+HS766T_PANCREAS	Gene Knock-Out Studies	Gene-Level
+HS944T_SKIN	Gene Knock-Out Studies	Gene-Level
+HSC3_UPPER_AERODIGESTIVE_TRACT	Gene Knock-Out Studies	Gene-Level
+HT1080_SOFT_TISSUE	Gene Knock-Out Studies	Gene-Level
+HT115_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+HT1197_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+HT1376_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+HT144_SKIN	Gene Knock-Out Studies	Gene-Level
+HT55_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+HUH1_LIVER	Gene Knock-Out Studies	Gene-Level
+HUH6_LIVER	Gene Knock-Out Studies	Gene-Level
+HUH7_LIVER	Gene Knock-Out Studies	Gene-Level
+HUPT3_PANCREAS	Gene Knock-Out Studies	Gene-Level
+IGR1_SKIN	Gene Knock-Out Studies	Gene-Level
+IGR39_SKIN	Gene Knock-Out Studies	Gene-Level
+IMR32_AUTONOMIC_GANGLIA	Gene Knock-Out Studies	Gene-Level
+IPC298_SKIN	Gene Knock-Out Studies	Gene-Level
+JHH1_LIVER	Gene Knock-Out Studies	Gene-Level
+JHH4_LIVER	Gene Knock-Out Studies	Gene-Level
+JHH5_LIVER	Gene Knock-Out Studies	Gene-Level
+JHH7_LIVER	Gene Knock-Out Studies	Gene-Level
+JHOC5_OVARY	Gene Knock-Out Studies	Gene-Level
+JHOM1_OVARY	Gene Knock-Out Studies	Gene-Level
+JHOS2_OVARY	Gene Knock-Out Studies	Gene-Level
+JHOS4_OVARY	Gene Knock-Out Studies	Gene-Level
+JIMT1_BREAST	Gene Knock-Out Studies	Gene-Level
+JMSU1_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+K029AX_SKIN	Gene Knock-Out Studies	Gene-Level
+KALS1_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+KARPAS299_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+KELLY_AUTONOMIC_GANGLIA	Gene Knock-Out Studies	Gene-Level
+KIJK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+KLE_ENDOMETRIUM	Gene Knock-Out Studies	Gene-Level
+KM12_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+KMBC2_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+KMRC1_KIDNEY	Gene Knock-Out Studies	Gene-Level
+KMRC20_KIDNEY	Gene Knock-Out Studies	Gene-Level
+KNS42_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+KNS60_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+KNS62_LUNG	Gene Knock-Out Studies	Gene-Level
+KNS81_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+KP2_PANCREAS	Gene Knock-Out Studies	Gene-Level
+KP3_PANCREAS	Gene Knock-Out Studies	Gene-Level
+KP4_PANCREAS	Gene Knock-Out Studies	Gene-Level
+KPL1_BREAST	Gene Knock-Out Studies	Gene-Level
+KPNYN_AUTONOMIC_GANGLIA	Gene Knock-Out Studies	Gene-Level
+KS1_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+KU1919_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+KURAMOCHI_OVARY	Gene Knock-Out Studies	Gene-Level
+KYSE180_OESOPHAGUS	Gene Knock-Out Studies	Gene-Level
+KYSE270_OESOPHAGUS	Gene Knock-Out Studies	Gene-Level
+KYSE30_OESOPHAGUS	Gene Knock-Out Studies	Gene-Level
+KYSE410_OESOPHAGUS	Gene Knock-Out Studies	Gene-Level
+KYSE450_OESOPHAGUS	Gene Knock-Out Studies	Gene-Level
+KYSE70_OESOPHAGUS	Gene Knock-Out Studies	Gene-Level
+LCLC103H_LUNG	Gene Knock-Out Studies	Gene-Level
+LI7_LIVER	Gene Knock-Out Studies	Gene-Level
+LK2_LUNG	Gene Knock-Out Studies	Gene-Level
+LN18_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+LN235_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+LN382_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+LN443_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+LNZ308_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+LOVO_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+LS1034_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+LS180_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+LS513_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+LUDLU1_LUNG	Gene Knock-Out Studies	Gene-Level
+LXF289_LUNG	Gene Knock-Out Studies	Gene-Level
+M059K_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+MALME3M_SKIN	Gene Knock-Out Studies	Gene-Level
+MCAS_OVARY	Gene Knock-Out Studies	Gene-Level
+MDAMB157_BREAST	Gene Knock-Out Studies	Gene-Level
+MDAMB231_BREAST	Gene Knock-Out Studies	Gene-Level
+MDAMB415_BREAST	Gene Knock-Out Studies	Gene-Level
+MDAMB435S_SKIN	Gene Knock-Out Studies	Gene-Level
+MDAMB436_BREAST	Gene Knock-Out Studies	Gene-Level
+MDAMB453_BREAST	Gene Knock-Out Studies	Gene-Level
+MDAMB468_BREAST	Gene Knock-Out Studies	Gene-Level
+MDST8_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+MELHO_SKIN	Gene Knock-Out Studies	Gene-Level
+MELJUSO_SKIN	Gene Knock-Out Studies	Gene-Level
+MFE319_ENDOMETRIUM	Gene Knock-Out Studies	Gene-Level
+MHHNB11_AUTONOMIC_GANGLIA	Gene Knock-Out Studies	Gene-Level
+MIAPACA2_PANCREAS	Gene Knock-Out Studies	Gene-Level
+MKN45_STOMACH	Gene Knock-Out Studies	Gene-Level
+MOLM13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE_2	Gene Knock-Out Studies	Gene-Level
+MORCPR_LUNG	Gene Knock-Out Studies	Gene-Level
+MV411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE_2	Gene Knock-Out Studies	Gene-Level
+NB1_AUTONOMIC_GANGLIA	Gene Knock-Out Studies	Gene-Level
+NB4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE_2	Gene Knock-Out Studies	Gene-Level
+NCIH1299_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH1437_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH1581_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH1650_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH1693_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH1703_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH1792_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH1944_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH2023_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH2030_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH2087_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH2110_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH2122_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH2126_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH2170_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH2172_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH2291_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH23_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH322_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH441_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH460_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH520_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIH716_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+NCIH747_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+NCIH838_LUNG	Gene Knock-Out Studies	Gene-Level
+NCIN87_STOMACH	Gene Knock-Out Studies	Gene-Level
+NOMO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+NUGC3_STOMACH	Gene Knock-Out Studies	Gene-Level
+OAW28_OVARY	Gene Knock-Out Studies	Gene-Level
+OE21_OESOPHAGUS	Gene Knock-Out Studies	Gene-Level
+OE33_OESOPHAGUS	Gene Knock-Out Studies	Gene-Level
+ONS76_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+OSRC2_KIDNEY	Gene Knock-Out Studies	Gene-Level
+OUMS23_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+OV7_OVARY	Gene Knock-Out Studies	Gene-Level
+OV90_OVARY	Gene Knock-Out Studies	Gene-Level
+OVCAR8_OVARY	Gene Knock-Out Studies	Gene-Level
+OVISE_OVARY	Gene Knock-Out Studies	Gene-Level
+OVK18_OVARY	Gene Knock-Out Studies	Gene-Level
+OVMANA_OVARY	Gene Knock-Out Studies	Gene-Level
+OVTOKO_OVARY	Gene Knock-Out Studies	Gene-Level
+P31FUJ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE_2	Gene Knock-Out Studies	Gene-Level
+PANC0203_PANCREAS	Gene Knock-Out Studies	Gene-Level
+PANC0403_PANCREAS	Gene Knock-Out Studies	Gene-Level
+PANC1005_PANCREAS	Gene Knock-Out Studies	Gene-Level
+PATU8988S_PANCREAS	Gene Knock-Out Studies	Gene-Level
+PC14_LUNG	Gene Knock-Out Studies	Gene-Level
+PECAPJ34CLONEC12_UPPER_AERODIGESTIVE_TRACT	Gene Knock-Out Studies	Gene-Level
+PF382_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+PK1_PANCREAS	Gene Knock-Out Studies	Gene-Level
+PK45H_PANCREAS	Gene Knock-Out Studies	Gene-Level
+PK59_PANCREAS	Gene Knock-Out Studies	Gene-Level
+PLCPRF5_LIVER	Gene Knock-Out Studies	Gene-Level
+PSN1_PANCREAS	Gene Knock-Out Studies	Gene-Level
+RCC10RGB_KIDNEY	Gene Knock-Out Studies	Gene-Level
+RD_SOFT_TISSUE	Gene Knock-Out Studies	Gene-Level
+RERFLCAD1_LUNG	Gene Knock-Out Studies	Gene-Level
+RERFLCAI_LUNG	Gene Knock-Out Studies	Gene-Level
+RH30_SOFT_TISSUE	Gene Knock-Out Studies	Gene-Level
+RKN_SOFT_TISSUE	Gene Knock-Out Studies	Gene-Level
+RKO_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+RMUGS_OVARY	Gene Knock-Out Studies	Gene-Level
+RPMI7951_SKIN	Gene Knock-Out Studies	Gene-Level
+RT112_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+RT11284_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+RT4_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+RVH421_SKIN	Gene Knock-Out Studies	Gene-Level
+SCABER_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+SF295_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+SF767_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+SH10TC_STOMACH	Gene Knock-Out Studies	Gene-Level
+SIMA_AUTONOMIC_GANGLIA	Gene Knock-Out Studies	Gene-Level
+SJSA1_BONE	Gene Knock-Out Studies	Gene-Level
+SKBR3_BREAST	Gene Knock-Out Studies	Gene-Level
+SKHEP1_LIVER	Gene Knock-Out Studies	Gene-Level
+SKMEL24_SKIN	Gene Knock-Out Studies	Gene-Level
+SKMEL30_SKIN	Gene Knock-Out Studies	Gene-Level
+SKMES1_LUNG	Gene Knock-Out Studies	Gene-Level
+SKNAS_AUTONOMIC_GANGLIA	Gene Knock-Out Studies	Gene-Level
+SKNBE2_AUTONOMIC_GANGLIA	Gene Knock-Out Studies	Gene-Level
+SKNDZ_AUTONOMIC_GANGLIA	Gene Knock-Out Studies	Gene-Level
+SKNFI_AUTONOMIC_GANGLIA	Gene Knock-Out Studies	Gene-Level
+SKNMC_BONE	Gene Knock-Out Studies	Gene-Level
+SKOV3_OVARY	Gene Knock-Out Studies	Gene-Level
+SLR20_KIDNEY	Gene Knock-Out Studies	Gene-Level
+SLR23_KIDNEY	Gene Knock-Out Studies	Gene-Level
+SLR26_KIDNEY	Gene Knock-Out Studies	Gene-Level
+SNGM_ENDOMETRIUM	Gene Knock-Out Studies	Gene-Level
+SNU1_STOMACH	Gene Knock-Out Studies	Gene-Level
+SNU201_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+SNU213_PANCREAS	Gene Knock-Out Studies	Gene-Level
+SNU349_KIDNEY	Gene Knock-Out Studies	Gene-Level
+SNU398_LIVER	Gene Knock-Out Studies	Gene-Level
+SNU410_PANCREAS	Gene Knock-Out Studies	Gene-Level
+SNU449_LIVER	Gene Knock-Out Studies	Gene-Level
+SNU503_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+SNU685_ENDOMETRIUM	Gene Knock-Out Studies	Gene-Level
+SNU8_OVARY	Gene Knock-Out Studies	Gene-Level
+SNU840_OVARY	Gene Knock-Out Studies	Gene-Level
+SUIT2_PANCREAS	Gene Knock-Out Studies	Gene-Level
+SUPM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+SUPT1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+SW1463_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+SW403_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+SW48_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+SW620_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+SW837_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+T24_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+T3M4_PANCREAS	Gene Knock-Out Studies	Gene-Level
+T84_LARGE_INTESTINE	Gene Knock-Out Studies	Gene-Level
+T98G_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+TCCPAN2_PANCREAS	Gene Knock-Out Studies	Gene-Level
+TCCSUP_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+TE1_OESOPHAGUS	Gene Knock-Out Studies	Gene-Level
+TE5_OESOPHAGUS	Gene Knock-Out Studies	Gene-Level
+TEN_ENDOMETRIUM	Gene Knock-Out Studies	Gene-Level
+TF1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE_2	Gene Knock-Out Studies	Gene-Level
+THP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE_2	Gene Knock-Out Studies	Gene-Level
+TOV21G_OVARY	Gene Knock-Out Studies	Gene-Level
+TUHR10TKB_KIDNEY	Gene Knock-Out Studies	Gene-Level
+TUHR4TKB_KIDNEY	Gene Knock-Out Studies	Gene-Level
+U118MG_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+U178_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+U251MG_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+U2OS_BONE	Gene Knock-Out Studies	Gene-Level
+U343_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+U87MG_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+U937_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene Knock-Out Studies	Gene-Level
+UACC257_SKIN	Gene Knock-Out Studies	Gene-Level
+UACC62_SKIN	Gene Knock-Out Studies	Gene-Level
+UMUC3_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+UOK101_KIDNEY	Gene Knock-Out Studies	Gene-Level
+VMCUB1_URINARY_TRACT	Gene Knock-Out Studies	Gene-Level
+WM115_SKIN	Gene Knock-Out Studies	Gene-Level
+WM1799_SKIN	Gene Knock-Out Studies	Gene-Level
+WM2664_SKIN	Gene Knock-Out Studies	Gene-Level
+WM793_SKIN	Gene Knock-Out Studies	Gene-Level
+WM983B_SKIN	Gene Knock-Out Studies	Gene-Level
+YAPC_PANCREAS	Gene Knock-Out Studies	Gene-Level
+YKG1_CENTRAL_NERVOUS_SYSTEM	Gene Knock-Out Studies	Gene-Level
+ZR751_BREAST	Gene Knock-Out Studies	Gene-Level
+Adipose_Subcutaneous	Gene Expression	Gene-Level
+Adipose_Visceral_Omentum	Gene Expression	Gene-Level
+Adrenal_Gland	Gene Expression	Gene-Level
+Artery_Aorta	Gene Expression	Gene-Level
+Artery_Coronary	Gene Expression	Gene-Level
+Artery_Tibial	Gene Expression	Gene-Level
+Bladder	Gene Expression	Gene-Level
+Brain_Amygdala	Gene Expression	Gene-Level
+Brain_Anterior_cingulate_cortex_BA24	Gene Expression	Gene-Level
+Brain_Caudate_basal_ganglia	Gene Expression	Gene-Level
+Brain_Cerebellar_Hemisphere	Gene Expression	Gene-Level
+Brain_Cerebellum	Gene Expression	Gene-Level
+Brain_Cortex	Gene Expression	Gene-Level
+Brain_Frontal_Cortex_BA9	Gene Expression	Gene-Level
+Brain_Hippocampus	Gene Expression	Gene-Level
+Brain_Hypothalamus	Gene Expression	Gene-Level
+Brain_Nucleus_accumbens_basal_ganglia	Gene Expression	Gene-Level
+Brain_Putamen_basal_ganglia	Gene Expression	Gene-Level
+Brain_Spinal_cord_cervical_c-1	Gene Expression	Gene-Level
+Brain_Substantia_nigra	Gene Expression	Gene-Level
+Breast_Mammary_Tissue	Gene Expression	Gene-Level
+Cells_Cultured_fibroblasts	Gene Expression	Gene-Level
+Cells_EBV-transformed_lymphocytes	Gene Expression	Gene-Level
+Cervix_Ectocervix	Gene Expression	Gene-Level
+Cervix_Endocervix	Gene Expression	Gene-Level
+Colon_Sigmoid	Gene Expression	Gene-Level
+Colon_Transverse	Gene Expression	Gene-Level
+Colon_Transverse_Mixed_Cell	Gene Expression	Gene-Level
+Colon_Transverse_Mucosa	Gene Expression	Gene-Level
+Colon_Transverse_Muscularis	Gene Expression	Gene-Level
+Esophagus_Gastroesophageal_Junction	Gene Expression	Gene-Level
+Esophagus_Mucosa	Gene Expression	Gene-Level
+Esophagus_Muscularis	Gene Expression	Gene-Level
+Fallopian_Tube	Gene Expression	Gene-Level
+Heart_Atrial_Appendage	Gene Expression	Gene-Level
+Heart_Left_Ventricle	Gene Expression	Gene-Level
+Kidney_Cortex	Gene Expression	Gene-Level
+Kidney_Medulla	Gene Expression	Gene-Level
+Liver	Gene Expression	Gene-Level
+Liver_Hepatocyte	Gene Expression	Gene-Level
+Liver_Mixed_Cell	Gene Expression	Gene-Level
+Liver_Portal_Tract	Gene Expression	Gene-Level
+Lung	Gene Expression	Gene-Level
+Minor_Salivary_Gland	Gene Expression	Gene-Level
+Muscle_Skeletal	Gene Expression	Gene-Level
+Nerve_Tibial	Gene Expression	Gene-Level
+Ovary	Gene Expression	Gene-Level
+Pancreas	Gene Expression	Gene-Level
+Pancreas_Acini	Gene Expression	Gene-Level
+Pancreas_Islets	Gene Expression	Gene-Level
+Pancreas_Mixed_Cell	Gene Expression	Gene-Level
+Pituitary	Gene Expression	Gene-Level
+Prostate	Gene Expression	Gene-Level
+Skin_Not_Sun_Exposed_Suprapubic	Gene Expression	Gene-Level
+Skin_Sun_Exposed_Lower_leg	Gene Expression	Gene-Level
+Small_Intestine_Terminal_Ileum	Gene Expression	Gene-Level
+Small_Intestine_Terminal_Ileum_Lymphode_Aggregate	Gene Expression	Gene-Level
+Small_Intestine_Terminal_Ileum_Mixed_Cell	Gene Expression	Gene-Level
+Spleen	Gene Expression	Gene-Level
+Stomach	Gene Expression	Gene-Level
+Stomach_Mixed_Cell	Gene Expression	Gene-Level
+Stomach_Mucosa	Gene Expression	Gene-Level
+Stomach_Muscularis	Gene Expression	Gene-Level
+Testis	Gene Expression	Gene-Level
+Thyroid	Gene Expression	Gene-Level
+Uterus	Gene Expression	Gene-Level
+Vagina	Gene Expression	Gene-Level
+Whole_Blood	Gene Expression	Gene-Level
+rel_pos_aa	Structural	Residue-Level
+RSA	Structural	Residue-Level
+HBonds	Structural	Residue-Level
+contact_number_6A	Structural	Residue-Level
+contact_number_8A	Structural	Residue-Level
+contact_number_10A	Structural	Residue-Level
+contact_number_12A	Structural	Residue-Level
+SS_H	Structural	Residue-Level
+SS_B	Structural	Residue-Level
+SS_E	Structural	Residue-Level
+SS_G	Structural	Residue-Level
+SS_I	Structural	Residue-Level
+SS_T	Structural	Residue-Level
+SS_S	Structural	Residue-Level
+SS_-	Structural	Residue-Level
+FoldX_dG	Structural	Gene-Level
+esm2_mean_log_likelihood_difference	Protein Language Model-Derived	Mutation-Level
+esm2_perplexity_difference	Protein Language Model-Derived	Mutation-Level
+esm2_cosine_similarity	Protein Language Model-Derived	Mutation-Level
+esm2_avg_abs_difference	Protein Language Model-Derived	Mutation-Level

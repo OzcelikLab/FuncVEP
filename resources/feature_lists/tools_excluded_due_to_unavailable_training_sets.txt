@@ -1,0 +1,14 @@
+MutationTaster_score
+MVP_score
+gMVP_score
+BayesDel_addAF_score
+BayesDel_noAF_score
+PHACTboost_score
+DANN_score
+Eigen_raw_coding
+Eigen_phred_coding
+Eigen_PC_raw_coding
+Eigen_PC_phred_coding
+LoGoFunc_neutral
+LoGoFunc_GOF
+LoGoFunc_LOF

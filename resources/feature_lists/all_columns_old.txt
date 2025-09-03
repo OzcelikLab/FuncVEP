@@ -1,0 +1,577 @@
+Column	Class	Category
+FuncVEP_CTI	Functional-trained	Prediction Tool
+FuncVEP_CTE	Functional-trained	Prediction Tool
+FuncVEP_SP	Functional-trained	Prediction Tool
+Kidera_f1	Amino acid conversion matrix	Residue-Based Metric
+Kidera_f2	Amino acid conversion matrix	Residue-Based Metric
+Kidera_f3	Amino acid conversion matrix	Residue-Based Metric
+Kidera_f4	Amino acid conversion matrix	Residue-Based Metric
+Kidera_f5	Amino acid conversion matrix	Residue-Based Metric
+Kidera_f6	Amino acid conversion matrix	Residue-Based Metric
+Kidera_f7	Amino acid conversion matrix	Residue-Based Metric
+Kidera_f8	Amino acid conversion matrix	Residue-Based Metric
+Kidera_f9	Amino acid conversion matrix	Residue-Based Metric
+Kidera_f10	Amino acid conversion matrix	Residue-Based Metric
+Atchley_f1	Amino acid conversion matrix	Residue-Based Metric
+Atchley_f2	Amino acid conversion matrix	Residue-Based Metric
+Atchley_f3	Amino acid conversion matrix	Residue-Based Metric
+Atchley_f4	Amino acid conversion matrix	Residue-Based Metric
+Atchley_f5	Amino acid conversion matrix	Residue-Based Metric
+Grantham	Amino acid conversion matrix	Residue-Based Metric
+BLOSUM_80	Amino acid conversion matrix	Residue-Based Metric
+BLOSUM_62	Amino acid conversion matrix	Residue-Based Metric
+VTML	Amino acid conversion matrix	Residue-Based Metric
+BLOSUM70	Amino acid conversion matrix	Residue-Based Metric
+PFASUM60	Amino acid conversion matrix	Residue-Based Metric
+MIQS	Amino acid conversion matrix	Residue-Based Metric
+OddsRat	Amino acid conversion matrix	Residue-Based Metric
+Polyphen2_HDIV_score	Clinical-trained single predictor	Prediction Tool
+Polyphen2_HVAR_score	Clinical-trained single predictor	Prediction Tool
+MutationTaster_score	Clinical-trained meta predictor	Prediction Tool
+VEST4_score	Clinical-trained single predictor	Prediction Tool
+ClinVEP	Clinical-trained meta predictor	Prediction Tool
+MetaSVM_score	Clinical-trained meta predictor	Prediction Tool
+MetaLR_score	Clinical-trained meta predictor	Prediction Tool
+MetaRNN_score	Clinical-trained meta predictor	Prediction Tool
+M_CAP_score	Clinical-trained meta predictor	Prediction Tool
+REVEL_score	Clinical-trained meta predictor	Prediction Tool
+MutPred_score	Clinical-trained single predictor	Prediction Tool
+MVP_score	Clinical-trained meta predictor	Prediction Tool
+gMVP_score	Clinical-trained meta predictor	Prediction Tool
+MPC_score	Clinical-trained meta predictor	Prediction Tool
+DEOGEN2_score	Clinical-trained meta predictor	Prediction Tool
+BayesDel_addAF_score	Clinical-trained meta predictor	Prediction Tool
+BayesDel_noAF_score	Clinical-trained meta predictor	Prediction Tool
+ClinPred_score	Clinical-trained meta predictor	Prediction Tool
+VARITY_R_score	Clinical-trained meta predictor	Prediction Tool
+VARITY_ER_score	Clinical-trained meta predictor	Prediction Tool
+VARITY_R_LOO_score	Clinical-trained meta predictor	Prediction Tool
+VARITY_ER_LOO_score	Clinical-trained meta predictor	Prediction Tool
+PHACTboost_score	Clinical-trained meta predictor	Prediction Tool
+MutFormer_score	Clinical-trained meta predictor	Prediction Tool
+MutScore_score	Clinical-trained meta predictor	Prediction Tool
+CADD_raw	Clinical-trained meta predictor	Prediction Tool
+DANN_score	Clinical-trained meta predictor	Prediction Tool
+fathmm_XF_coding_score	Clinical-trained meta predictor	Prediction Tool
+Eigen_raw_coding	Clinical-trained meta predictor	Prediction Tool
+Eigen_phred_coding	Clinical-trained meta predictor	Prediction Tool
+Eigen_PC_raw_coding	Clinical-trained meta predictor	Prediction Tool
+Eigen_PC_phred_coding	Clinical-trained meta predictor	Prediction Tool
+sigma_score	Clinical-trained single predictor	Prediction Tool
+LoGoFunc_neutral	Clinical-trained meta predictor	Prediction Tool
+LoGoFunc_GOF	Clinical-trained meta predictor	Prediction Tool
+LoGoFunc_LOF	Clinical-trained meta predictor	Prediction Tool
+glm_AlphCadd	Clinical-trained meta predictor	Prediction Tool
+glm_AlphRevel	Clinical-trained meta predictor	Prediction Tool
+glm_RevelCadd	Clinical-trained meta predictor	Prediction Tool
+glm_AlphRevelCadd	Clinical-trained meta predictor	Prediction Tool
+glm_AlphDeogen	Clinical-trained meta predictor	Prediction Tool
+glm_CaddDeogen	Clinical-trained meta predictor	Prediction Tool
+glm_DeogenRevel	Clinical-trained meta predictor	Prediction Tool
+glm_AlphDeogenRevel	Clinical-trained meta predictor	Prediction Tool
+glm_AlphCaddDeogen	Clinical-trained meta predictor	Prediction Tool
+glm_CaddDeogenRevel	Clinical-trained meta predictor	Prediction Tool
+SNPred_score	Clinical-trained meta predictor	Prediction Tool
+GERP___NR	Conservation score-based	Prediction Tool
+GERP___RS	Conservation score-based	Prediction Tool
+GERP_91_mammals	Conservation score-based	Prediction Tool
+phyloP100way_vertebrate	Conservation score-based	Prediction Tool
+phyloP470way_mammalian	Conservation score-based	Prediction Tool
+phyloP17way_primate	Conservation score-based	Prediction Tool
+phastCons100way_vertebrate	Conservation score-based	Prediction Tool
+phastCons470way_mammalian	Conservation score-based	Prediction Tool
+phastCons17way_primate	Conservation score-based	Prediction Tool
+bStatistic	Conservation score-based	Prediction Tool
+mtr3daf2_5a	Constraint score-based	Prediction Tool
+mtr3daf2_8a	Constraint score-based	Prediction Tool
+mtr3daf2_11a	Constraint score-based	Prediction Tool
+mtr3daf2_14a	Constraint score-based	Prediction Tool
+MTR	Constraint score-based	Prediction Tool
+UKBdepletion_score	Constraint score-based	Prediction Tool
+jarvis	Constraint score-based	Prediction Tool
+SIFT_score	Population-free	Prediction Tool
+MutationAssessor_score	Population-free	Prediction Tool
+PROVEAN_score	Population-free	Prediction Tool
+ESM1b_score	Population-free	Prediction Tool
+PHACT	Population-free	Prediction Tool
+ESM1v	Population-free	Prediction Tool
+gpnmsa_score	Population-free	Prediction Tool
+PrimateAI_score	Population-tuned	Prediction Tool
+LIST_S2_score	Population-tuned	Prediction Tool
+AlphaMissense_score	Population-tuned	Prediction Tool
+PAI3D_score	Population-tuned	Prediction Tool
+AlphScore	Population-tuned	Prediction Tool
+popEVE	Population-tuned	Prediction Tool
+EVH_epistatic	Population-tuned	Prediction Tool
+EVH_independent	Population-tuned	Prediction Tool
+EWSIM	Population-tuned	Prediction Tool
+a3d_score	Structural	Residue-Based Metric
+alphafold_score	Structural	Residue-Based Metric
+lof.pLI	Gene constraint score-based	Gene-Based Metric
+lof.z_score	Gene constraint score-based	Gene-Based Metric
+mis.z_score	Gene constraint score-based	Gene-Based Metric
+syn.z_score	Gene constraint score-based	Gene-Based Metric
+phi	Gene constraint score-based	Gene-Based Metric
+Residual Variation Intolerance Score	Gene constraint score-based	Gene-Based Metric
+s_het	Gene constraint score-based	Gene-Based Metric
+A375_SKIN	Gene knock-out studies	Gene-Based Metric
+A673_BONE	Gene knock-out studies	Gene-Based Metric
+BXPC3_PANCREAS	Gene knock-out studies	Gene-Based Metric
+CADOES1_BONE	Gene knock-out studies	Gene-Based Metric
+CAL120_BREAST	Gene knock-out studies	Gene-Based Metric
+COLO741_SKIN	Gene knock-out studies	Gene-Based Metric
+CORL105_LUNG	Gene knock-out studies	Gene-Based Metric
+EW8_BONE	Gene knock-out studies	Gene-Based Metric
+EWS502_BONE	Gene knock-out studies	Gene-Based Metric
+G402_SOFT_TISSUE	Gene knock-out studies	Gene-Based Metric
+HCC44_LUNG	Gene knock-out studies	Gene-Based Metric
+HS294T_SKIN	Gene knock-out studies	Gene-Based Metric
+HT29_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+K562_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+L33_PANCREAS	Gene knock-out studies	Gene-Based Metric
+LNCAPCLONEFGC_PROSTATE	Gene knock-out studies	Gene-Based Metric
+MEWO_SKIN	Gene knock-out studies	Gene-Based Metric
+MHHES1_BONE	Gene knock-out studies	Gene-Based Metric
+NCIH1373_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH2009_LUNG	Gene knock-out studies	Gene-Based Metric
+PANC0327_PANCREAS	Gene knock-out studies	Gene-Based Metric
+PANC0813_PANCREAS	Gene knock-out studies	Gene-Based Metric
+PANC1_PANCREAS	Gene knock-out studies	Gene-Based Metric
+PATU8902_PANCREAS	Gene knock-out studies	Gene-Based Metric
+PATU8988T_PANCREAS	Gene knock-out studies	Gene-Based Metric
+PC3_PROSTATE	Gene knock-out studies	Gene-Based Metric
+RDES_BONE	Gene knock-out studies	Gene-Based Metric
+SKES1_BONE	Gene knock-out studies	Gene-Based Metric
+SU8686_PANCREAS	Gene knock-out studies	Gene-Based Metric
+T47D_BREAST	Gene knock-out studies	Gene-Based Metric
+TC32_BONE	Gene knock-out studies	Gene-Based Metric
+TC71_BONE	Gene knock-out studies	Gene-Based Metric
+TOV112D_OVARY	Gene knock-out studies	Gene-Based Metric
+EOL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+HEL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+MOLM13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+MONOMAC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+MV411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+NB4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+OCIAML2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+OCIAML3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+OCIAML5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+P31FUJ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+PL21_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+SKM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+TF1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+THP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+143B_BONE	Gene knock-out studies	Gene-Based Metric
+42MGBA_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+5637_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+59M_OVARY	Gene knock-out studies	Gene-Based Metric
+639V_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+647V_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+769P_KIDNEY	Gene knock-out studies	Gene-Based Metric
+786O_KIDNEY	Gene knock-out studies	Gene-Based Metric
+8305C_THYROID	Gene knock-out studies	Gene-Based Metric
+8MGBA_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+A2058_SKIN	Gene knock-out studies	Gene-Based Metric
+A2780_OVARY	Gene knock-out studies	Gene-Based Metric
+A549_LUNG	Gene knock-out studies	Gene-Based Metric
+ABC1_LUNG	Gene knock-out studies	Gene-Based Metric
+AGS_STOMACH	Gene knock-out studies	Gene-Based Metric
+ASPC1_PANCREAS	Gene knock-out studies	Gene-Based Metric
+AU565_BREAST	Gene knock-out studies	Gene-Based Metric
+BC3C_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+BFTC905_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+BFTC909_KIDNEY	Gene knock-out studies	Gene-Based Metric
+BHY_UPPER_AERODIGESTIVE_TRACT	Gene knock-out studies	Gene-Based Metric
+BICR22_UPPER_AERODIGESTIVE_TRACT	Gene knock-out studies	Gene-Based Metric
+BICR6_UPPER_AERODIGESTIVE_TRACT	Gene knock-out studies	Gene-Based Metric
+BT549_BREAST	Gene knock-out studies	Gene-Based Metric
+C2BBE1_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+C32_SKIN	Gene knock-out studies	Gene-Based Metric
+CAKI1_KIDNEY	Gene knock-out studies	Gene-Based Metric
+CAKI2_KIDNEY	Gene knock-out studies	Gene-Based Metric
+CAL27_UPPER_AERODIGESTIVE_TRACT	Gene knock-out studies	Gene-Based Metric
+CAL29_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+CAL51_BREAST	Gene knock-out studies	Gene-Based Metric
+CAL78_BONE	Gene knock-out studies	Gene-Based Metric
+CALU6_LUNG	Gene knock-out studies	Gene-Based Metric
+CAMA1_BREAST	Gene knock-out studies	Gene-Based Metric
+CAOV3_OVARY	Gene knock-out studies	Gene-Based Metric
+CAS1_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+CCFSTTG1_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+CCK81_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+CFPAC1_PANCREAS	Gene knock-out studies	Gene-Based Metric
+CHAGOK1_LUNG	Gene knock-out studies	Gene-Based Metric
+CHP212_AUTONOMIC_GANGLIA	Gene knock-out studies	Gene-Based Metric
+CJM_SKIN	Gene knock-out studies	Gene-Based Metric
+CL40_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+COLO678_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+COLO679_SKIN	Gene knock-out studies	Gene-Based Metric
+COLO792_SKIN	Gene knock-out studies	Gene-Based Metric
+COLO800_SKIN	Gene knock-out studies	Gene-Based Metric
+CORL279_LUNG	Gene knock-out studies	Gene-Based Metric
+CORL47_LUNG	Gene knock-out studies	Gene-Based Metric
+COV318_OVARY	Gene knock-out studies	Gene-Based Metric
+COV362_OVARY	Gene knock-out studies	Gene-Based Metric
+COV434_OVARY	Gene knock-out studies	Gene-Based Metric
+COV504_OVARY	Gene knock-out studies	Gene-Based Metric
+COV644_OVARY	Gene knock-out studies	Gene-Based Metric
+D283MED_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+D341MED_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+DANG_PANCREAS	Gene knock-out studies	Gene-Based Metric
+DAOY_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+DETROIT562_UPPER_AERODIGESTIVE_TRACT	Gene knock-out studies	Gene-Based Metric
+DKMG_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+DLD1_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+DU4475_BREAST	Gene knock-out studies	Gene-Based Metric
+EFM19_BREAST	Gene knock-out studies	Gene-Based Metric
+EFO21_OVARY	Gene knock-out studies	Gene-Based Metric
+EFO27_OVARY	Gene knock-out studies	Gene-Based Metric
+EKVX_LUNG	Gene knock-out studies	Gene-Based Metric
+EPLC272H_LUNG	Gene knock-out studies	Gene-Based Metric
+ES2_OVARY	Gene knock-out studies	Gene-Based Metric
+ESS1_ENDOMETRIUM	Gene knock-out studies	Gene-Based Metric
+F5_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+FADU_UPPER_AERODIGESTIVE_TRACT	Gene knock-out studies	Gene-Based Metric
+FU97_STOMACH	Gene knock-out studies	Gene-Based Metric
+G292CLONEA141B1_BONE	Gene knock-out studies	Gene-Based Metric
+G401_SOFT_TISSUE	Gene knock-out studies	Gene-Based Metric
+GAMG_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+GB1_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+GCIY_STOMACH	Gene knock-out studies	Gene-Based Metric
+GI1_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+GSS_STOMACH	Gene knock-out studies	Gene-Based Metric
+H4_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+HARA_LUNG	Gene knock-out studies	Gene-Based Metric
+HCC1143_BREAST	Gene knock-out studies	Gene-Based Metric
+HCC1359_LUNG	Gene knock-out studies	Gene-Based Metric
+HCC1395_BREAST	Gene knock-out studies	Gene-Based Metric
+HCC1419_BREAST	Gene knock-out studies	Gene-Based Metric
+HCC1428_BREAST	Gene knock-out studies	Gene-Based Metric
+HCC15_LUNG	Gene knock-out studies	Gene-Based Metric
+HCC1806_BREAST	Gene knock-out studies	Gene-Based Metric
+HCC1937_BREAST	Gene knock-out studies	Gene-Based Metric
+HCC1954_BREAST	Gene knock-out studies	Gene-Based Metric
+HCC202_BREAST	Gene knock-out studies	Gene-Based Metric
+HCC56_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+HCC827_LUNG	Gene knock-out studies	Gene-Based Metric
+HCC95_LUNG	Gene knock-out studies	Gene-Based Metric
+HEC1A_ENDOMETRIUM	Gene knock-out studies	Gene-Based Metric
+HEC1B_ENDOMETRIUM	Gene knock-out studies	Gene-Based Metric
+HEC251_ENDOMETRIUM	Gene knock-out studies	Gene-Based Metric
+HEC50B_ENDOMETRIUM	Gene knock-out studies	Gene-Based Metric
+HEC59_ENDOMETRIUM	Gene knock-out studies	Gene-Based Metric
+HEC6_ENDOMETRIUM	Gene knock-out studies	Gene-Based Metric
+HEYA8_OVARY	Gene knock-out studies	Gene-Based Metric
+HGC27_STOMACH	Gene knock-out studies	Gene-Based Metric
+HLF_LIVER	Gene knock-out studies	Gene-Based Metric
+HMC18_BREAST	Gene knock-out studies	Gene-Based Metric
+HOP62_LUNG	Gene knock-out studies	Gene-Based Metric
+HS294T_SKIN_2	Gene knock-out studies	Gene-Based Metric
+HS578T_BREAST	Gene knock-out studies	Gene-Based Metric
+HS683_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+HS695T_SKIN	Gene knock-out studies	Gene-Based Metric
+HS729_SOFT_TISSUE	Gene knock-out studies	Gene-Based Metric
+HS766T_PANCREAS	Gene knock-out studies	Gene-Based Metric
+HS944T_SKIN	Gene knock-out studies	Gene-Based Metric
+HSC3_UPPER_AERODIGESTIVE_TRACT	Gene knock-out studies	Gene-Based Metric
+HT1080_SOFT_TISSUE	Gene knock-out studies	Gene-Based Metric
+HT115_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+HT1197_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+HT1376_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+HT144_SKIN	Gene knock-out studies	Gene-Based Metric
+HT55_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+HUH1_LIVER	Gene knock-out studies	Gene-Based Metric
+HUH6_LIVER	Gene knock-out studies	Gene-Based Metric
+HUH7_LIVER	Gene knock-out studies	Gene-Based Metric
+HUPT3_PANCREAS	Gene knock-out studies	Gene-Based Metric
+IGR1_SKIN	Gene knock-out studies	Gene-Based Metric
+IGR39_SKIN	Gene knock-out studies	Gene-Based Metric
+IMR32_AUTONOMIC_GANGLIA	Gene knock-out studies	Gene-Based Metric
+IPC298_SKIN	Gene knock-out studies	Gene-Based Metric
+JHH1_LIVER	Gene knock-out studies	Gene-Based Metric
+JHH4_LIVER	Gene knock-out studies	Gene-Based Metric
+JHH5_LIVER	Gene knock-out studies	Gene-Based Metric
+JHH7_LIVER	Gene knock-out studies	Gene-Based Metric
+JHOC5_OVARY	Gene knock-out studies	Gene-Based Metric
+JHOM1_OVARY	Gene knock-out studies	Gene-Based Metric
+JHOS2_OVARY	Gene knock-out studies	Gene-Based Metric
+JHOS4_OVARY	Gene knock-out studies	Gene-Based Metric
+JIMT1_BREAST	Gene knock-out studies	Gene-Based Metric
+JMSU1_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+K029AX_SKIN	Gene knock-out studies	Gene-Based Metric
+KALS1_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+KARPAS299_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+KELLY_AUTONOMIC_GANGLIA	Gene knock-out studies	Gene-Based Metric
+KIJK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+KLE_ENDOMETRIUM	Gene knock-out studies	Gene-Based Metric
+KM12_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+KMBC2_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+KMRC1_KIDNEY	Gene knock-out studies	Gene-Based Metric
+KMRC20_KIDNEY	Gene knock-out studies	Gene-Based Metric
+KNS42_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+KNS60_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+KNS62_LUNG	Gene knock-out studies	Gene-Based Metric
+KNS81_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+KP2_PANCREAS	Gene knock-out studies	Gene-Based Metric
+KP3_PANCREAS	Gene knock-out studies	Gene-Based Metric
+KP4_PANCREAS	Gene knock-out studies	Gene-Based Metric
+KPL1_BREAST	Gene knock-out studies	Gene-Based Metric
+KPNYN_AUTONOMIC_GANGLIA	Gene knock-out studies	Gene-Based Metric
+KS1_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+KU1919_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+KURAMOCHI_OVARY	Gene knock-out studies	Gene-Based Metric
+KYSE180_OESOPHAGUS	Gene knock-out studies	Gene-Based Metric
+KYSE270_OESOPHAGUS	Gene knock-out studies	Gene-Based Metric
+KYSE30_OESOPHAGUS	Gene knock-out studies	Gene-Based Metric
+KYSE410_OESOPHAGUS	Gene knock-out studies	Gene-Based Metric
+KYSE450_OESOPHAGUS	Gene knock-out studies	Gene-Based Metric
+KYSE70_OESOPHAGUS	Gene knock-out studies	Gene-Based Metric
+LCLC103H_LUNG	Gene knock-out studies	Gene-Based Metric
+LI7_LIVER	Gene knock-out studies	Gene-Based Metric
+LK2_LUNG	Gene knock-out studies	Gene-Based Metric
+LN18_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+LN235_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+LN382_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+LN443_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+LNZ308_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+LOVO_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+LS1034_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+LS180_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+LS513_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+LUDLU1_LUNG	Gene knock-out studies	Gene-Based Metric
+LXF289_LUNG	Gene knock-out studies	Gene-Based Metric
+M059K_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+MALME3M_SKIN	Gene knock-out studies	Gene-Based Metric
+MCAS_OVARY	Gene knock-out studies	Gene-Based Metric
+MDAMB157_BREAST	Gene knock-out studies	Gene-Based Metric
+MDAMB231_BREAST	Gene knock-out studies	Gene-Based Metric
+MDAMB415_BREAST	Gene knock-out studies	Gene-Based Metric
+MDAMB435S_SKIN	Gene knock-out studies	Gene-Based Metric
+MDAMB436_BREAST	Gene knock-out studies	Gene-Based Metric
+MDAMB453_BREAST	Gene knock-out studies	Gene-Based Metric
+MDAMB468_BREAST	Gene knock-out studies	Gene-Based Metric
+MDST8_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+MELHO_SKIN	Gene knock-out studies	Gene-Based Metric
+MELJUSO_SKIN	Gene knock-out studies	Gene-Based Metric
+MFE319_ENDOMETRIUM	Gene knock-out studies	Gene-Based Metric
+MHHNB11_AUTONOMIC_GANGLIA	Gene knock-out studies	Gene-Based Metric
+MIAPACA2_PANCREAS	Gene knock-out studies	Gene-Based Metric
+MKN45_STOMACH	Gene knock-out studies	Gene-Based Metric
+MOLM13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE_2	Gene knock-out studies	Gene-Based Metric
+MORCPR_LUNG	Gene knock-out studies	Gene-Based Metric
+MV411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE_2	Gene knock-out studies	Gene-Based Metric
+NB1_AUTONOMIC_GANGLIA	Gene knock-out studies	Gene-Based Metric
+NB4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE_2	Gene knock-out studies	Gene-Based Metric
+NCIH1299_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH1437_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH1581_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH1650_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH1693_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH1703_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH1792_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH1944_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH2023_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH2030_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH2087_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH2110_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH2122_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH2126_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH2170_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH2172_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH2291_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH23_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH322_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH441_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH460_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH520_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIH716_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+NCIH747_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+NCIH838_LUNG	Gene knock-out studies	Gene-Based Metric
+NCIN87_STOMACH	Gene knock-out studies	Gene-Based Metric
+NOMO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+NUGC3_STOMACH	Gene knock-out studies	Gene-Based Metric
+OAW28_OVARY	Gene knock-out studies	Gene-Based Metric
+OE21_OESOPHAGUS	Gene knock-out studies	Gene-Based Metric
+OE33_OESOPHAGUS	Gene knock-out studies	Gene-Based Metric
+ONS76_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+OSRC2_KIDNEY	Gene knock-out studies	Gene-Based Metric
+OUMS23_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+OV7_OVARY	Gene knock-out studies	Gene-Based Metric
+OV90_OVARY	Gene knock-out studies	Gene-Based Metric
+OVCAR8_OVARY	Gene knock-out studies	Gene-Based Metric
+OVISE_OVARY	Gene knock-out studies	Gene-Based Metric
+OVK18_OVARY	Gene knock-out studies	Gene-Based Metric
+OVMANA_OVARY	Gene knock-out studies	Gene-Based Metric
+OVTOKO_OVARY	Gene knock-out studies	Gene-Based Metric
+P31FUJ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE_2	Gene knock-out studies	Gene-Based Metric
+PANC0203_PANCREAS	Gene knock-out studies	Gene-Based Metric
+PANC0403_PANCREAS	Gene knock-out studies	Gene-Based Metric
+PANC1005_PANCREAS	Gene knock-out studies	Gene-Based Metric
+PATU8988S_PANCREAS	Gene knock-out studies	Gene-Based Metric
+PC14_LUNG	Gene knock-out studies	Gene-Based Metric
+PECAPJ34CLONEC12_UPPER_AERODIGESTIVE_TRACT	Gene knock-out studies	Gene-Based Metric
+PF382_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+PK1_PANCREAS	Gene knock-out studies	Gene-Based Metric
+PK45H_PANCREAS	Gene knock-out studies	Gene-Based Metric
+PK59_PANCREAS	Gene knock-out studies	Gene-Based Metric
+PLCPRF5_LIVER	Gene knock-out studies	Gene-Based Metric
+PSN1_PANCREAS	Gene knock-out studies	Gene-Based Metric
+RCC10RGB_KIDNEY	Gene knock-out studies	Gene-Based Metric
+RD_SOFT_TISSUE	Gene knock-out studies	Gene-Based Metric
+RERFLCAD1_LUNG	Gene knock-out studies	Gene-Based Metric
+RERFLCAI_LUNG	Gene knock-out studies	Gene-Based Metric
+RH30_SOFT_TISSUE	Gene knock-out studies	Gene-Based Metric
+RKN_SOFT_TISSUE	Gene knock-out studies	Gene-Based Metric
+RKO_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+RMUGS_OVARY	Gene knock-out studies	Gene-Based Metric
+RPMI7951_SKIN	Gene knock-out studies	Gene-Based Metric
+RT112_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+RT11284_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+RT4_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+RVH421_SKIN	Gene knock-out studies	Gene-Based Metric
+SCABER_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+SF295_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+SF767_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+SH10TC_STOMACH	Gene knock-out studies	Gene-Based Metric
+SIMA_AUTONOMIC_GANGLIA	Gene knock-out studies	Gene-Based Metric
+SJSA1_BONE	Gene knock-out studies	Gene-Based Metric
+SKBR3_BREAST	Gene knock-out studies	Gene-Based Metric
+SKHEP1_LIVER	Gene knock-out studies	Gene-Based Metric
+SKMEL24_SKIN	Gene knock-out studies	Gene-Based Metric
+SKMEL30_SKIN	Gene knock-out studies	Gene-Based Metric
+SKMES1_LUNG	Gene knock-out studies	Gene-Based Metric
+SKNAS_AUTONOMIC_GANGLIA	Gene knock-out studies	Gene-Based Metric
+SKNBE2_AUTONOMIC_GANGLIA	Gene knock-out studies	Gene-Based Metric
+SKNDZ_AUTONOMIC_GANGLIA	Gene knock-out studies	Gene-Based Metric
+SKNFI_AUTONOMIC_GANGLIA	Gene knock-out studies	Gene-Based Metric
+SKNMC_BONE	Gene knock-out studies	Gene-Based Metric
+SKOV3_OVARY	Gene knock-out studies	Gene-Based Metric
+SLR20_KIDNEY	Gene knock-out studies	Gene-Based Metric
+SLR23_KIDNEY	Gene knock-out studies	Gene-Based Metric
+SLR26_KIDNEY	Gene knock-out studies	Gene-Based Metric
+SNGM_ENDOMETRIUM	Gene knock-out studies	Gene-Based Metric
+SNU1_STOMACH	Gene knock-out studies	Gene-Based Metric
+SNU201_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+SNU213_PANCREAS	Gene knock-out studies	Gene-Based Metric
+SNU349_KIDNEY	Gene knock-out studies	Gene-Based Metric
+SNU398_LIVER	Gene knock-out studies	Gene-Based Metric
+SNU410_PANCREAS	Gene knock-out studies	Gene-Based Metric
+SNU449_LIVER	Gene knock-out studies	Gene-Based Metric
+SNU503_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+SNU685_ENDOMETRIUM	Gene knock-out studies	Gene-Based Metric
+SNU8_OVARY	Gene knock-out studies	Gene-Based Metric
+SNU840_OVARY	Gene knock-out studies	Gene-Based Metric
+SUIT2_PANCREAS	Gene knock-out studies	Gene-Based Metric
+SUPM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+SUPT1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+SW1463_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+SW403_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+SW48_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+SW620_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+SW837_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+T24_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+T3M4_PANCREAS	Gene knock-out studies	Gene-Based Metric
+T84_LARGE_INTESTINE	Gene knock-out studies	Gene-Based Metric
+T98G_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+TCCPAN2_PANCREAS	Gene knock-out studies	Gene-Based Metric
+TCCSUP_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+TE1_OESOPHAGUS	Gene knock-out studies	Gene-Based Metric
+TE5_OESOPHAGUS	Gene knock-out studies	Gene-Based Metric
+TEN_ENDOMETRIUM	Gene knock-out studies	Gene-Based Metric
+TF1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE_2	Gene knock-out studies	Gene-Based Metric
+THP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE_2	Gene knock-out studies	Gene-Based Metric
+TOV21G_OVARY	Gene knock-out studies	Gene-Based Metric
+TUHR10TKB_KIDNEY	Gene knock-out studies	Gene-Based Metric
+TUHR4TKB_KIDNEY	Gene knock-out studies	Gene-Based Metric
+U118MG_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+U178_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+U251MG_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+U2OS_BONE	Gene knock-out studies	Gene-Based Metric
+U343_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+U87MG_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+U937_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Gene knock-out studies	Gene-Based Metric
+UACC257_SKIN	Gene knock-out studies	Gene-Based Metric
+UACC62_SKIN	Gene knock-out studies	Gene-Based Metric
+UMUC3_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+UOK101_KIDNEY	Gene knock-out studies	Gene-Based Metric
+VMCUB1_URINARY_TRACT	Gene knock-out studies	Gene-Based Metric
+WM115_SKIN	Gene knock-out studies	Gene-Based Metric
+WM1799_SKIN	Gene knock-out studies	Gene-Based Metric
+WM2664_SKIN	Gene knock-out studies	Gene-Based Metric
+WM793_SKIN	Gene knock-out studies	Gene-Based Metric
+WM983B_SKIN	Gene knock-out studies	Gene-Based Metric
+YAPC_PANCREAS	Gene knock-out studies	Gene-Based Metric
+YKG1_CENTRAL_NERVOUS_SYSTEM	Gene knock-out studies	Gene-Based Metric
+ZR751_BREAST	Gene knock-out studies	Gene-Based Metric
+Adipose_Subcutaneous	Gene expression	Gene-Based Metric
+Adipose_Visceral_Omentum	Gene expression	Gene-Based Metric
+Adrenal_Gland	Gene expression	Gene-Based Metric
+Artery_Aorta	Gene expression	Gene-Based Metric
+Artery_Coronary	Gene expression	Gene-Based Metric
+Artery_Tibial	Gene expression	Gene-Based Metric
+Bladder	Gene expression	Gene-Based Metric
+Brain_Amygdala	Gene expression	Gene-Based Metric
+Brain_Anterior_cingulate_cortex_BA24	Gene expression	Gene-Based Metric
+Brain_Caudate_basal_ganglia	Gene expression	Gene-Based Metric
+Brain_Cerebellar_Hemisphere	Gene expression	Gene-Based Metric
+Brain_Cerebellum	Gene expression	Gene-Based Metric
+Brain_Cortex	Gene expression	Gene-Based Metric
+Brain_Frontal_Cortex_BA9	Gene expression	Gene-Based Metric
+Brain_Hippocampus	Gene expression	Gene-Based Metric
+Brain_Hypothalamus	Gene expression	Gene-Based Metric
+Brain_Nucleus_accumbens_basal_ganglia	Gene expression	Gene-Based Metric
+Brain_Putamen_basal_ganglia	Gene expression	Gene-Based Metric
+Brain_Spinal_cord_cervical_c-1	Gene expression	Gene-Based Metric
+Brain_Substantia_nigra	Gene expression	Gene-Based Metric
+Breast_Mammary_Tissue	Gene expression	Gene-Based Metric
+Cells_Cultured_fibroblasts	Gene expression	Gene-Based Metric
+Cells_EBV-transformed_lymphocytes	Gene expression	Gene-Based Metric
+Cervix_Ectocervix	Gene expression	Gene-Based Metric
+Cervix_Endocervix	Gene expression	Gene-Based Metric
+Colon_Sigmoid	Gene expression	Gene-Based Metric
+Colon_Transverse	Gene expression	Gene-Based Metric
+Colon_Transverse_Mixed_Cell	Gene expression	Gene-Based Metric
+Colon_Transverse_Mucosa	Gene expression	Gene-Based Metric
+Colon_Transverse_Muscularis	Gene expression	Gene-Based Metric
+Esophagus_Gastroesophageal_Junction	Gene expression	Gene-Based Metric
+Esophagus_Mucosa	Gene expression	Gene-Based Metric
+Esophagus_Muscularis	Gene expression	Gene-Based Metric
+Fallopian_Tube	Gene expression	Gene-Based Metric
+Heart_Atrial_Appendage	Gene expression	Gene-Based Metric
+Heart_Left_Ventricle	Gene expression	Gene-Based Metric
+Kidney_Cortex	Gene expression	Gene-Based Metric
+Kidney_Medulla	Gene expression	Gene-Based Metric
+Liver	Gene expression	Gene-Based Metric
+Liver_Hepatocyte	Gene expression	Gene-Based Metric
+Liver_Mixed_Cell	Gene expression	Gene-Based Metric
+Liver_Portal_Tract	Gene expression	Gene-Based Metric
+Lung	Gene expression	Gene-Based Metric
+Minor_Salivary_Gland	Gene expression	Gene-Based Metric
+Muscle_Skeletal	Gene expression	Gene-Based Metric
+Nerve_Tibial	Gene expression	Gene-Based Metric
+Ovary	Gene expression	Gene-Based Metric
+Pancreas	Gene expression	Gene-Based Metric
+Pancreas_Acini	Gene expression	Gene-Based Metric
+Pancreas_Islets	Gene expression	Gene-Based Metric
+Pancreas_Mixed_Cell	Gene expression	Gene-Based Metric
+Pituitary	Gene expression	Gene-Based Metric
+Prostate	Gene expression	Gene-Based Metric
+Skin_Not_Sun_Exposed_Suprapubic	Gene expression	Gene-Based Metric
+Skin_Sun_Exposed_Lower_leg	Gene expression	Gene-Based Metric
+Small_Intestine_Terminal_Ileum	Gene expression	Gene-Based Metric
+Small_Intestine_Terminal_Ileum_Lymphode_Aggregate	Gene expression	Gene-Based Metric
+Small_Intestine_Terminal_Ileum_Mixed_Cell	Gene expression	Gene-Based Metric
+Spleen	Gene expression	Gene-Based Metric
+Stomach	Gene expression	Gene-Based Metric
+Stomach_Mixed_Cell	Gene expression	Gene-Based Metric
+Stomach_Mucosa	Gene expression	Gene-Based Metric
+Stomach_Muscularis	Gene expression	Gene-Based Metric
+Testis	Gene expression	Gene-Based Metric
+Thyroid	Gene expression	Gene-Based Metric
+Uterus	Gene expression	Gene-Based Metric
+Vagina	Gene expression	Gene-Based Metric
+Whole_Blood	Gene expression	Gene-Based Metric
+esm2_mean_log_likelihood_difference	Protein language model-derived	Residue-Based Metric
+esm2_perplexity_difference	Protein language model-derived	Residue-Based Metric
+cosine_similarity	Protein language model-derived	Residue-Based Metric
+average_absolute_difference	Protein language model-derived	Residue-Based Metric
