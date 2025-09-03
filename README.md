@@ -5,6 +5,7 @@ FuncVEP is a family of LightGBM classifiers for predicting the functional effect
 - FuncVEP Web Portal: https://funcvep.bilkent.edu.tr
 - Precomputed FuncVEP predictions for all possible missense variants: https://zenodo.org/records/17036008
 
+
 ![FuncVEP Framework](resources/framework.png)
 
 ---
