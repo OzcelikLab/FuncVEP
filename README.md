@@ -31,6 +31,12 @@ conda activate funcvep
 
 ---
 
+## Trained Models
+
+The trained models used in this project are included in the `models/` directory.
+
+---
+
 ## Reproducing the Results
 
 The project code is organized into numbered Jupyter notebooks and R scripts that reproduce the full FuncVEP framework.
