@@ -71,6 +71,6 @@ The FuncVEP paper will be provided as soon as it is available.
 
 ## License
 
-This project is available under the MIT license.
+This project is available under the PolyForm Strict License.
 
 ---
