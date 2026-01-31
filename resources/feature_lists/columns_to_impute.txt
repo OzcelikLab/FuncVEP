@@ -51,3 +51,5 @@ mtr3daf2_8a
 mtr3daf2_11a
 mtr3daf2_14a
 AlphScore
+CPT1_score
+AlphaMissense_score

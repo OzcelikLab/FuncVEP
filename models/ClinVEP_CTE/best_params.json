@@ -1,0 +1,16 @@
+{
+  "num_leaves": 74,
+  "max_depth": 10,
+  "n_estimators": 297,
+  "subsample": 0.6476394577120178,
+  "subsample_freq": 2,
+  "colsample_bytree": 0.4706557254231936,
+  "learning_rate": 0.05051671371180934,
+  "min_child_samples": 73,
+  "min_child_weight": 0.04806244612992987,
+  "min_split_gain": 0.33985541222548477,
+  "lambda_l1": 0.000531872781490996,
+  "lambda_l2": 0.005662872345494533,
+  "objective": "binary",
+  "random_state": 42
+}
